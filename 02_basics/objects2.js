@@ -4,9 +4,7 @@ const tinderUser = {}
 tinderUser.id = "123abc"
 tinderUser.name = "Sammy"
 tinderUser.isLoggedIn = false
-
 // console.log(tinderUser);
-
 const regularUser = {
     email: "some@gmail.com",
     fullname: {
@@ -44,7 +42,6 @@ const users = [
         email: "h@gmail.com"
     },
 ]
-
 users[1].email
 // console.log(tinderUser);
 
@@ -73,7 +70,6 @@ console.log(instructor);
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
-
 [
     {},
     {},
